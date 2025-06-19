@@ -1,2 +1,4 @@
-# downloads_manager
+# 🔀 Downloads Manager #
+
 Renamed to Downloads Cleaner
+
